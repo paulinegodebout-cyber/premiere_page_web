@@ -1,0 +1,36 @@
+body {
+    background-color: #f0f8ff;   /* bleu clair ciel */
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #1e3d59;   /* bleu foncé */
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 20px;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #ff6f61;   /* rouge orangé */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 400px;        /* plus grande que précédemment */
+    margin: 20px auto;
+}
+
+img {
+    border: 5px solid #1e3d59;  /* bordure bleu foncé */
+    border-radius: 10px;
+}
